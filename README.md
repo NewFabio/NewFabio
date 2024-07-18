@@ -1,10 +1,5 @@
 ### Oi, eu sou **Fabio da Conceição**!
-<br>
-
-* 🔭 Estudando/Trabalahndo Front-End <br>
-* 🌱 Estou aprendendo e aperfeiçoando Typescript/React <br>
-* 😄 Pronouns: ele/dele
-  
+<br>  
 ##
 
 <div>
