@@ -1,5 +1,5 @@
-### Bem-Vindo a minha página GitHub**!
-### Em constante aprendizado**!
+### Bem-Vindo a minha página GitHub!
+### Em constante aprendizado!
 <br>
 
 ##
