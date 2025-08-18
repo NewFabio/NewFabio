@@ -1,9 +1,7 @@
-<div>
-Bem-Vindo a minha página GitHub!
-</div>
-<br>
+<h2 align="center">Bem-Vindo a minha página GitHub!</h2>
 
-<div>
+<br>
+<div align="center">
   <a href="https://github.com/NewFabio">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=NewFabio&show=reviews&show_icons=true&theme=transparent">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewFabio&layout=compact&theme=transparent">
@@ -35,5 +33,10 @@ Bem-Vindo a minha página GitHub!
 <!--   <a href = "fabio.conceicaoads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/fabio-concei%C3%A7%C3%A3o-045457314/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+
 
 
