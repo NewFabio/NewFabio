@@ -1,8 +1,7 @@
-### Bem-Vindo a minha página GitHub!
-### Em constante aprendizado!
+<div>
+Bem-Vindo a minha página GitHub!
+</div>
 <br>
-
-##
 
 <div>
   <a href="https://github.com/NewFabio">
