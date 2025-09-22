@@ -1,5 +1,5 @@
 <h2 align="center">Bem-Vindo a minha página GitHub!</h2>
-<p>Desenvolvedor de Software</p>
+<p align="center" text="bold">Desenvolvedor de Software.</p>
 <br>
 <div align="center">
   <a href="https://github.com/NewFabio">
